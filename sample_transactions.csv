@@ -1,0 +1,11 @@
+transaction_id,customer_id,transaction_date,transaction_amount,payment_method,location,transaction_status,risk_score,is_fraud
+TXN001,CUST001,2026-01-05,120.50,Credit Card,Dallas,Approved,25,No
+TXN002,CUST002,2026-01-05,950.00,Debit Card,Chicago,Approved,72,Yes
+TXN003,CUST003,2026-01-06,45.99,UPI,New York,Approved,18,No
+TXN004,CUST004,2026-01-06,1500.00,Credit Card,Miami,Declined,88,Yes
+TXN005,CUST005,2026-01-07,75.25,PayPal,Dallas,Approved,30,No
+TXN006,CUST006,2026-01-07,2200.00,Wire Transfer,Los Angeles,Review,91,Yes
+TXN007,CUST007,2026-01-08,65.00,Debit Card,Houston,Approved,22,No
+TXN008,CUST008,2026-01-08,780.40,Credit Card,Chicago,Review,69,Yes
+TXN009,CUST009,2026-01-09,32.75,UPI,Dallas,Approved,15,No
+TXN010,CUST010,2026-01-09,1200.00,Wire Transfer,New York,Declined,84,Yes
